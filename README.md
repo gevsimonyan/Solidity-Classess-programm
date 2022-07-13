@@ -1,4 +1,4 @@
-# Internship program
+# Solidity classess programm
 
 1. What is Blockchain.
 2. Blocks, transactions, hashes and wallets (first part).
