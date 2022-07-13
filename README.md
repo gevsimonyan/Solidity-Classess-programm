@@ -18,3 +18,22 @@
 16. Ethereum projects: Uniswap, Pancakeswap. Liquidity pool.
 17. Staking protocol project.
 18. OOP in Solidity.
+
+
+
+# Useful links
+1. Rinkeby faucet https://fauceth.komputing.org/
+2. Ethereum documentation https://ethereum.org/en/developers/docs/
+3. Browser IDE for solidity https://remix-project.org/
+4. Solidity Documentation https://docs.soliditylang.org/en/v0.8.15/
+5. Hardhat framework https://hardhat.org/
+6. Ethers.js docs https://docs.ethers.io/v5/
+7. ERC20 standart docs https://eips.ethereum.org/EIPS/eip-20
+8. Waffle documentation https://ethereum-waffle.readthedocs.io/en/latest/
+9. Chai matchers documentation https://ethereum-waffle.readthedocs.io/en/latest/matchers.html
+10. Best ethereum book - https://github.com/ethereumbook/ethereumbook
+11. Openzeppelin documentation https://docs.openzeppelin.com/
+12. Ethernaut https://ethernaut.openzeppelin.com/
+13. AAVE - https://aave.com/ AAVE github - https://github.com/aave
+14. UniSwap - https://uniswap.org/ UniSwap github - https://github.com/Uniswap
+15. DAO Maker - https://daomaker.com/ DAOMaker github - https://github.com/daomaker
