@@ -18,6 +18,9 @@
 16. Ethereum projects: Uniswap, Pancakeswap. Liquidity pool.
 17. Staking protocol project.
 18. OOP in Solidity.
+19. Consensus algorithms part 1
+20. Consensus algorithms part 2
+21. Ethereum yellow paper.
 
 
 
@@ -37,3 +40,4 @@
 13. AAVE - https://aave.com/ AAVE github - https://github.com/aave
 14. UniSwap - https://uniswap.org/ UniSwap github - https://github.com/Uniswap
 15. DAO Maker - https://daomaker.com/ DAOMaker github - https://github.com/daomaker
+16. Ethereum yellow paper - https://ethereum.github.io/yellowpaper/paper.pdf
